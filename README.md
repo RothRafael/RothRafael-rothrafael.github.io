@@ -43,5 +43,7 @@ I'm always open to new opportunities! Feel free to reach out via:
 - **GitHub**: [GitHub Profile](https://github.com/yourusername)
 
 ---
+![Description of Image](files/images/fotoTeste.png)
+
 
 Created with ❤️ by [Your Name](https://github.com/yourusername)
