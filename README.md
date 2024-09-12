@@ -42,8 +42,8 @@ I'm always open to new opportunities! Feel free to reach out via:
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - **GitHub**: [GitHub Profile](https://github.com/yourusername)
 
----
-![Description of Image](files/images/fotoTeste.png)
-
+<p align="center">
+  <img src="files/images/fotoTeste.png" alt="Logo do projeto" width="200">
+</p>
 
 Created with ❤️ by [Your Name](https://github.com/yourusername)
